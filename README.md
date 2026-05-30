@@ -19,4 +19,4 @@ https://raw.githubusercontent.com/qxn90111/qclaw-releases/main/releases/latest/m
 
 Then it downloads:
 
-https://github.com/qxn90111/qclaw-releases/releases/download/v0.86.0/qclaw-upgrade-kit-0.86.0.zip
+https://github.com/qxn90111/qclaw-releases/releases/download/v0.86.0/qclaw-upgrade-kit-0.86.0-c0fec3e9.zip
