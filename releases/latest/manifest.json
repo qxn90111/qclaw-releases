@@ -11,8 +11,8 @@
     "rules":  {
                   "version":  "0.86.0",
                   "sourcePath":  "",
-                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.86.0/qclaw-upgrade-kit-0.86.0-61dd24ff.zip",
-                  "sha256":  "61DD24FFB0193E6B5F88291571952188854AAB45725D835422309AC47B8455DB",
+                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.86.0/qclaw-upgrade-kit-0.86.0-4337dd8f.zip",
+                  "sha256":  "4337DD8FD173A758313E07EAAA06C2CFDB4E0DE4CD17CAA6EBBBD0329ADAFC8B",
                   "requiredFiles":  [
                                         "version.json",
                                         "policy.md",
