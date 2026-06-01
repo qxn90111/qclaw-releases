@@ -1,4 +1,4 @@
-﻿{
+{
     "packageName":  "Qclaw Upgrade Kit",
     "version":  "0.86.0",
     "channel":  "stable",
@@ -11,8 +11,8 @@
     "rules":  {
                   "version":  "0.86.0",
                   "sourcePath":  "",
-                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.86.0/qclaw-upgrade-kit-0.86.0-2cd1d80e.zip",
-                  "sha256":  "2CD1D80E391A193342D62E3F4B44AE803F0611BFD05DC3F0D624A677F660E326",
+                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.86.0/qclaw-upgrade-kit-0.86.0-61dd24ff.zip",
+                  "sha256":  "61DD24FFB0193E6B5F88291571952188854AAB45725D835422309AC47B8455DB",
                   "requiredFiles":  [
                                         "version.json",
                                         "policy.md",
