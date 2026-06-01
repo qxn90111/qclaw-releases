@@ -11,6 +11,8 @@ This repository hosts the public update manifest and release assets for QClaw ru
 
 ## User Upgrade Path
 
+Chinese field SOP: [UPGRADE.zh-CN.md](UPGRADE.zh-CN.md)
+
 Users whose QClaw already has the WeChat command interception layer can upgrade by sending this in the connected QClaw WeChat chat:
 
 ```text
