@@ -11,8 +11,8 @@
     "rules":  {
                   "version":  "0.87.1",
                   "sourcePath":  "",
-                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-c8354c31.zip",
-                  "sha256":  "C8354C31E9DCF7746C06E8A7371629E43FCD29FC440F48601D5960E1A6E8FECD",
+                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-16cd6480.zip",
+                  "sha256":  "16CD6480E4AC6812A5F8AF16217DAC781AFBC6E629478D6C1E6581EB008BE55B",
                   "requiredFiles":  [
                                         "version.json",
                                         "policy.md",
@@ -25,8 +25,8 @@
     "training":  {
                      "version":  "qinsheng-training-pack-v0.87.1",
                      "sourcePath":  "",
-                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-c8354c31.zip",
-                     "sha256":  "C8354C31E9DCF7746C06E8A7371629E43FCD29FC440F48601D5960E1A6E8FECD",
+                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-16cd6480.zip",
+                     "sha256":  "16CD6480E4AC6812A5F8AF16217DAC781AFBC6E629478D6C1E6581EB008BE55B",
                      "requiredFiles":  [
                                            "VERSION",
                                            "00-runtime-priority.md",
