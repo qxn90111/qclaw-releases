@@ -1,0 +1,50 @@
+﻿{
+    "packageName":  "Qclaw Upgrade Kit",
+    "version":  "0.87.1",
+    "channel":  "stable",
+    "kind":  "rules+training",
+    "requiresRestart":  false,
+    "appCompatibility":  {
+                             "minVersion":  "0.85.0",
+                             "supportsOpenClawGatewayRestart":  true
+                         },
+    "rules":  {
+                  "version":  "0.87.1",
+                  "sourcePath":  "",
+                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-c8354c31.zip",
+                  "sha256":  "C8354C31E9DCF7746C06E8A7371629E43FCD29FC440F48601D5960E1A6E8FECD",
+                  "requiredFiles":  [
+                                        "version.json",
+                                        "policy.md",
+                                        "eq_policy.zh-CN.md",
+                                        "style_guide.md",
+                                        "preference_pairs.jsonl",
+                                        "eval_cases.jsonl"
+                                    ]
+              },
+    "training":  {
+                     "version":  "qinsheng-training-pack-v0.87.1",
+                     "sourcePath":  "",
+                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-c8354c31.zip",
+                     "sha256":  "C8354C31E9DCF7746C06E8A7371629E43FCD29FC440F48601D5960E1A6E8FECD",
+                     "requiredFiles":  [
+                                           "VERSION",
+                                           "00-runtime-priority.md",
+                                           "AGENTS.md",
+                                           "SOUL.md",
+                                           "QCLAW_WECHAT_START_HERE.md",
+                                           "course-coach-style-087.md",
+                                           "course-output-guard-087.md",
+                                           "course-index.md",
+                                           "course-retrieval-rules.md",
+                                           "dialogue-coach-contract.md",
+                                           "wechat-reply-style.md",
+                                           "installer\\qclaw-local-upgrade-087.ps1",
+                                           "skills\\qinsheng-training\\SKILL.md"
+                                       ]
+                 },
+    "telemetry":  {
+                      "defaultEnabled":  false,
+                      "eventName":  "qclaw.upgrade.event"
+                  }
+}
