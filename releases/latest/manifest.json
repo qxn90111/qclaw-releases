@@ -11,8 +11,8 @@
     "rules":  {
                   "version":  "0.87.1",
                   "sourcePath":  "",
-                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-25712173.zip",
-                  "sha256":  "25712173B04AE824AFADBC8A277A6325B2C5C1508F85CE20ED70BD362EC4BB34",
+                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-5280d6f4.zip",
+                  "sha256":  "5280D6F4358E774BAC7D91352BFA3DB9F8A402CAD6FDC03FFA83CD02000A80D6",
                   "requiredFiles":  [
                                         "version.json",
                                         "policy.md",
@@ -25,8 +25,8 @@
     "training":  {
                      "version":  "qinsheng-training-pack-v0.87.1",
                      "sourcePath":  "",
-                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-25712173.zip",
-                     "sha256":  "25712173B04AE824AFADBC8A277A6325B2C5C1508F85CE20ED70BD362EC4BB34",
+                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-5280d6f4.zip",
+                     "sha256":  "5280D6F4358E774BAC7D91352BFA3DB9F8A402CAD6FDC03FFA83CD02000A80D6",
                      "requiredFiles":  [
                                            "VERSION",
                                            "00-runtime-priority.md",
@@ -40,6 +40,8 @@
                                            "dialogue-coach-contract.md",
                                            "wechat-reply-style.md",
                                            "installer\\qclaw-local-upgrade-087.ps1",
+                                           "installer\\qclaw-export-user-state.ps1",
+                                           "installer\\qclaw-import-user-state.ps1",
                                            "skills\\qinsheng-training\\SKILL.md"
                                        ]
                  },
