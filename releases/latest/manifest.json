@@ -11,8 +11,8 @@
     "rules":  {
                   "version":  "0.87.1",
                   "sourcePath":  "",
-                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-51a7ac1b.zip",
-                  "sha256":  "51A7AC1BD3FFE753A1E9477CADD9B0D8D41666885DD2620B4E06A9F5B63391A6",
+                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-149826d8.zip",
+                  "sha256":  "149826D8F06D7CDCE3EC2A207389526098AF19CB9A86AC44A108EC0CDAA84B7F",
                   "requiredFiles":  [
                                         "version.json",
                                         "policy.md",
@@ -25,8 +25,8 @@
     "training":  {
                      "version":  "qinsheng-training-pack-v0.87.1",
                      "sourcePath":  "",
-                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-51a7ac1b.zip",
-                     "sha256":  "51A7AC1BD3FFE753A1E9477CADD9B0D8D41666885DD2620B4E06A9F5B63391A6",
+                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-149826d8.zip",
+                     "sha256":  "149826D8F06D7CDCE3EC2A207389526098AF19CB9A86AC44A108EC0CDAA84B7F",
                      "requiredFiles":  [
                                            "VERSION",
                                            "00-runtime-priority.md",
@@ -42,6 +42,8 @@
                                            "installer\\qclaw-local-upgrade-087.ps1",
                                            "installer\\qclaw-export-user-state.ps1",
                                            "installer\\qclaw-import-user-state.ps1",
+                                           "installer\\test-qclaw-end-to-end-lifecycle.ps1",
+                                           "installer\\user-lifecycle-acceptance-runbook.md",
                                            "skills\\qinsheng-training\\SKILL.md"
                                        ]
                  },
