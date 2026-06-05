@@ -60,14 +60,14 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\source\training\qinsheng-t
 
 ## 后台不能出现的旧入口
 
-根目录 README、UPGRADE、一键脚本、管理说明里不能再出现：
+根目录 README、UPGRADE、一键脚本、管理说明里不能再出现旧稳定版入口，例如：
 
-- “Current Stable Release: 0.86.0”
-- `qclaw-upgrade-kit-0.86.0-*.zip`
-- “Thinking default: high”
-- “升级到 0.86”
+- 当前稳定版仍写成上一代版本。
+- asset 仍指向上一代升级包。
+- 默认思考深度仍写成上一代 `high`。
+- 微信升级话术仍指向上一代目标版本。
 
-历史目录 `releases/0.86.0/` 和 `releases/0.87.0/` 可以保留，因为那是版本归档；但 `releases/latest/manifest.json` 必须指向当前稳定版。
+历史版本归档目录可以保留；但 `releases/latest/manifest.json` 必须指向当前稳定版。
 
 ## 隐私边界
 
