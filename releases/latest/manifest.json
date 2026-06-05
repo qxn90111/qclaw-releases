@@ -11,8 +11,8 @@
     "rules":  {
                   "version":  "0.87.1",
                   "sourcePath":  "",
-                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-149826d8.zip",
-                  "sha256":  "149826D8F06D7CDCE3EC2A207389526098AF19CB9A86AC44A108EC0CDAA84B7F",
+                  "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-4bd118b3.zip",
+                  "sha256":  "4BD118B304B2FDFEBCD12D9A28C3616F23DA5B56468B5E0A33B7D6DA1A69AEB7",
                   "requiredFiles":  [
                                         "version.json",
                                         "policy.md",
@@ -25,8 +25,8 @@
     "training":  {
                      "version":  "qinsheng-training-pack-v0.87.1",
                      "sourcePath":  "",
-                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-149826d8.zip",
-                     "sha256":  "149826D8F06D7CDCE3EC2A207389526098AF19CB9A86AC44A108EC0CDAA84B7F",
+                     "artifactUrl":  "https://github.com/qxn90111/qclaw-releases/releases/download/v0.87.1/qclaw-upgrade-kit-0.87.1-4bd118b3.zip",
+                     "sha256":  "4BD118B304B2FDFEBCD12D9A28C3616F23DA5B56468B5E0A33B7D6DA1A69AEB7",
                      "requiredFiles":  [
                                            "VERSION",
                                            "00-runtime-priority.md",
@@ -37,12 +37,16 @@
                                            "course-output-guard-087.md",
                                            "course-index.md",
                                            "course-retrieval-rules.md",
+                                           "mi-21-days.md",
+                                           "conversation-acceptance-tests.md",
+                                           "family-mi-qclaw-runbook.md",
                                            "dialogue-coach-contract.md",
                                            "wechat-reply-style.md",
                                            "installer\\qclaw-local-upgrade-087.ps1",
                                            "installer\\qclaw-export-user-state.ps1",
                                            "installer\\qclaw-import-user-state.ps1",
                                            "installer\\test-qclaw-end-to-end-lifecycle.ps1",
+                                           "installer\\test-qclaw-mom-mi-acceptance.ps1",
                                            "installer\\user-lifecycle-acceptance-runbook.md",
                                            "skills\\qinsheng-training\\SKILL.md"
                                        ]
